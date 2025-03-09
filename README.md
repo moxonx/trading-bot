@@ -18,7 +18,7 @@ Before using this script, ensure you have the following:
 ## Installation
 1. Clone this repository (if applicable):
    ```bash
-   git clone https://github.com/2Px1ONE/trading-bot.git
+   git clone https://github.com/moxonx/trading-bot.git
    cd crypto-trading-bot
    ```
 2. Install the required Python packages:
